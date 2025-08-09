@@ -4,3 +4,5 @@ dobro = numero*2
 triplo = numero*3
 raiz = numero**(1/2)
 print('O dobro de {} é {}, o triplo é {} e sua raiz quadrada é {}'.format(numero, dobro, triplo, raiz))
+
+print('O dobro de {} é {}, o triplo é {} e sua raiz quadrada é {}'.format(numero, (numero*2), (numero*3), pow(numero,(1/2))))
