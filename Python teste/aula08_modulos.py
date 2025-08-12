@@ -43,6 +43,8 @@ print(num)
 num_int = random.randint(1,10)
 print(num_int)
 
+print('-'*10)
+
 # acessar o site do python.org > py PI (Package index, indice de pacotes extras)
 import emoji
 print(emoji.emojize('Olá mundo :earth_americas:', language="alias"))
