@@ -45,4 +45,4 @@ print(num_int)
 
 # acessar o site do python.org > py PI (Package index, indice de pacotes extras)
 import emoji
-print(emoji.('Olá mundo :earth_americas:', use_aliases=True))
+print(emoji.emojize('Olá mundo :earth_americas:', language="alias"))
